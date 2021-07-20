@@ -1,0 +1,30 @@
+.header{
+  background-color: gold;
+  color:white;
+  padding:5px 1px 5px 30px;
+  width:100%;
+  font-family: 'Sriracha', cursive;;
+}
+
+.note{
+  height:auto!important;
+  width:auto;
+  width:200px;
+background-color:rgb(221, 214, 214);
+padding:5px 5px;
+border-radius: 5%;
+margin:1% 2% 2% 1%;
+display:inline-block;
+}
+
+.footer{
+position: relative;;
+text-align: center;
+color:grey;
+background-color:ghostwhite;
+padding:5px 5px;
+margin-bottom:0px !important;
+width:100%;
+margin-top:18%;
+
+}
