@@ -8,7 +8,9 @@
     "bootstrap": "5.0.2",
     "react": "16.11.0",
     "react-bootstrap": "1.6.1",
-    "react-dom": "16.11.0"
+    "react-dom": "16.11.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^4.0.3"
   },
   "devDependencies": {
     "typescript": "3.3.3"
